@@ -49,8 +49,4 @@ https://github.com/FruitPnchSamuraiG/StreetFighter/assets/146465657/e934897d-32b
 Follow the Jupyter notebook `StreetFighter_Tutorial.ipynb` to understand the code execution flow.
 
 
-
 Happy gaming and training!
-
-
-Copy and paste this updated content into your README file on GitHub. It includes additional details about the environment setup, filtered action space, reward function, and more.
