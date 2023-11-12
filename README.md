@@ -21,7 +21,7 @@ pip install stable-baselines3[extra] optuna
 - The `StreetFighter` environment uses retro.Actions.FILTERED to filter the action space.
 - This helps focus on relevant actions for optimal training.
 - Random Sampling of Actions
-  https://github.com/FruitPnchSamuraiG/StreetFighter/assets/146465657/b182aa1c-035b-4718-b02d-e55c5346aeb5
+- https://github.com/FruitPnchSamuraiG/StreetFighter/assets/146465657/b182aa1c-035b-4718-b02d-e55c5346aeb5
 
 
 ## Reward Function
