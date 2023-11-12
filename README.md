@@ -24,6 +24,7 @@ pip install stable-baselines3[extra] optuna
 - https://github.com/FruitPnchSamuraiG/StreetFighter/1.gif
 https://github.com/FruitPnchSamuraiG/StreetFighter/assets/146465657/b182aa1c-035b-4718-b02d-e55c5346aeb5
 
+
 ## Reward Function
 - The reward function is set to the in-game score.
 - The `step` method reshapes the reward function based on the score delta.
@@ -36,13 +37,14 @@ https://github.com/FruitPnchSamuraiG/StreetFighter/assets/146465657/b182aa1c-035
 ## Evaluation
 - The trained model is evaluated using the `evaluate_policy` function.
 - https://github.com/FruitPnchSamuraiG/StreetFighter/2.gif
-https://github.com/FruitPnchSamuraiG/StreetFighter/assets/146465657/ef89544c-81a5-48f4-b077-565a42b71d01
+https://github.com/FruitPnchSamuraiG/StreetFighter/assets/146465657/bbcf38d0-020c-4cfa-98ea-7d4e42186f6b
 
 
 ## Test the Model
 - The `Test out the Model` section demonstrates how to use the trained model to play the game.
 - https://github.com/FruitPnchSamuraiG/StreetFighter/3.gif
-https://github.com/FruitPnchSamuraiG/StreetFighter/assets/146465657/d936fcf1-2462-42d1-875d-52161148d983
+https://github.com/FruitPnchSamuraiG/StreetFighter/assets/146465657/3c435c54-ce85-445f-9d76-931c7cefc926
+
 
 ## Files and Directories
 - `logs/`: TensorBoard logs during training.
