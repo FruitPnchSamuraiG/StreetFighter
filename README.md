@@ -21,7 +21,7 @@ pip install stable-baselines3[extra] optuna
 - The `StreetFighter` environment uses retro.Actions.FILTERED to filter the action space.
 - This helps focus on relevant actions for optimal training.
 - Random Sampling of Actions
-  https://github.com/FruitPnchSamuraiG/StreetFighter/1.gif
+- https://github.com/FruitPnchSamuraiG/StreetFighter/1.gif
 
 ## Reward Function
 - The reward function is set to the in-game score.
@@ -34,11 +34,11 @@ pip install stable-baselines3[extra] optuna
 
 ## Evaluation
 - The trained model is evaluated using the `evaluate_policy` function.
-  https://github.com/FruitPnchSamuraiG/StreetFighter/2.gif
+- https://github.com/FruitPnchSamuraiG/StreetFighter/2.gif
 
 ## Test the Model
 - The `Test out the Model` section demonstrates how to use the trained model to play the game.
-  https://github.com/FruitPnchSamuraiG/StreetFighter/3.gif
+- https://github.com/FruitPnchSamuraiG/StreetFighter/3.gif
 
 ## Files and Directories
 - `logs/`: TensorBoard logs during training.
