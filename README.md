@@ -22,6 +22,7 @@ pip install stable-baselines3[extra] optuna
 - This helps focus on relevant actions for optimal training.
 - Random Sampling of Actions
 - https://github.com/FruitPnchSamuraiG/StreetFighter/1.gif
+https://github.com/FruitPnchSamuraiG/StreetFighter/assets/146465657/b182aa1c-035b-4718-b02d-e55c5346aeb5
 
 ## Reward Function
 - The reward function is set to the in-game score.
@@ -35,10 +36,13 @@ pip install stable-baselines3[extra] optuna
 ## Evaluation
 - The trained model is evaluated using the `evaluate_policy` function.
 - https://github.com/FruitPnchSamuraiG/StreetFighter/2.gif
+https://github.com/FruitPnchSamuraiG/StreetFighter/assets/146465657/ef89544c-81a5-48f4-b077-565a42b71d01
+
 
 ## Test the Model
 - The `Test out the Model` section demonstrates how to use the trained model to play the game.
 - https://github.com/FruitPnchSamuraiG/StreetFighter/3.gif
+https://github.com/FruitPnchSamuraiG/StreetFighter/assets/146465657/d936fcf1-2462-42d1-875d-52161148d983
 
 ## Files and Directories
 - `logs/`: TensorBoard logs during training.
