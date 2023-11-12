@@ -21,7 +21,6 @@ pip install stable-baselines3[extra] optuna
 - The `StreetFighter` environment uses retro.Actions.FILTERED to filter the action space.
 - This helps focus on relevant actions for optimal training.
 - Random Sampling of Actions
-- https://github.com/FruitPnchSamuraiG/StreetFighter/1.gif
 https://github.com/FruitPnchSamuraiG/StreetFighter/assets/146465657/b182aa1c-035b-4718-b02d-e55c5346aeb5
 
 
@@ -36,13 +35,11 @@ https://github.com/FruitPnchSamuraiG/StreetFighter/assets/146465657/b182aa1c-035
 
 ## Evaluation
 - The trained model is evaluated using the `evaluate_policy` function.
-- https://github.com/FruitPnchSamuraiG/StreetFighter/2.gif
 https://github.com/FruitPnchSamuraiG/StreetFighter/assets/146465657/bbcf38d0-020c-4cfa-98ea-7d4e42186f6b
 
 
 ## Test the Model
 - The `Test out the Model` section demonstrates how to use the trained model to play the game.
-- https://github.com/FruitPnchSamuraiG/StreetFighter/3.gif
 https://github.com/FruitPnchSamuraiG/StreetFighter/assets/146465657/3c435c54-ce85-445f-9d76-931c7cefc926
 
 
